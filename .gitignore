@@ -1,0 +1,4 @@
+venv_rossmann/
+dataset/
+*.csv
+.ipynb_checkpoints/
