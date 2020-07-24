@@ -6,7 +6,7 @@
 <h3>Objective</h3>
     <li>Create a solution to sales forecast to next 6 weeks</li>
 
-<h3>How<h3>
+<h3>How</h3>
     <li>Create a data collect from kaggle dataset</li>
     <li>Create a machine learning to prediction sales</li>
     <li>Create a bot on Telegram</li>
